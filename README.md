@@ -1,19 +1,3 @@
-
-<div  align="center">
-  <img src="header.jpg" />
-</div>
-
-<details>
-  <summary>📈 My GitHub Stats</summary>
-  <div  align="center">
-    <img src="https://raw.githubusercontent.com/dongyuanwu/dongyuanwu/master/profile-summary-card-output/vue/0-profile-details.svg" />
-    <img src="https://raw.githubusercontent.com/dongyuanwu/dongyuanwu/master/profile-summary-card-output/vue/1-repos-per-language.svg" />
-    <img src="https://raw.githubusercontent.com/dongyuanwu/dongyuanwu/master/profile-summary-card-output/vue/2-most-commit-language.svg" />
-  </div>
-</details>
-
-<div  align="center">
-  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdongyuanwu&count_bg=%2340BE6D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
 <!--
